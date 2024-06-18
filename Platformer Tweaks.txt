@@ -1,0 +1,10 @@
+Platformer Tweaks:
+
+
+BP_Player
+Jump Max Hold Time: Length of time you can hold the jump button to get more altitude
+Gravity Scale: How fast you fall
+
+Character Movement
+Jump Z Velocity: how fast / far you jump upwards
+Air Control: how much % of normal movement do you have in air
